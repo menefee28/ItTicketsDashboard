@@ -174,7 +174,7 @@ Data Cleaning	Standardizing formats, removing errors
     └── Tickets.xlsx         # Cleaned dataset (Power Query applied)
 
 /sql
-    └── tickets_analysis.sql  # All SQL queries in one script
+    └── TicketAnalysis.sql  # All SQL queries in one script
 
 /powerbi
     └── itTickets.pbix  # Final dashboard file
@@ -196,6 +196,7 @@ Building DAX measures
 Designing a clean BI dashboard
 
 Explaining insights clearly
+
 
 
 
