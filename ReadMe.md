@@ -75,7 +75,7 @@ SELECT IssueType, COUNT(*) FROM Tickets GROUP BY IssueType;
 
 
 The full SQL file is included here:
- sql/tickets_analysis.sql
+ sql/TicketAnalysis.sql
 
 	Power BI (Data Modeling, DAX, Dashboard)
 
@@ -198,6 +198,7 @@ Building DAX measures
 Designing a clean BI dashboard
 
 Explaining insights clearly
+
 
 
 
