@@ -200,4 +200,5 @@ Designing a clean BI dashboard
 Explaining insights clearly
 
 
-It mirrors the responsibilities of a Business Analyst, Data Analyst, or Systems Analyst in real IT operations.
+
+
