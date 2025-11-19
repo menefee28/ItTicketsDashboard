@@ -171,7 +171,7 @@ Power BI	Dashboard design, data modeling
 DAX	KPI calculation and modeling
 Data Visualization	Trend charts, categorical breakdowns, KPI cards
 Data Cleaning	Standardizing formats, removing errors
-📁 Repository Structure
+	Repository Structure
 /data
     └── Tickets.xlsx         # Cleaned dataset (Power Query applied)
 
@@ -183,7 +183,7 @@ Data Cleaning	Standardizing formats, removing errors
 
 README.md
 
-🎯 Why This Project Matters
+	Why This Project Matters
 
 This project demonstrates end-to-end analytics ability:
 
@@ -198,5 +198,6 @@ Building DAX measures
 Designing a clean BI dashboard
 
 Explaining insights clearly
+
 
 It mirrors the responsibilities of a Business Analyst, Data Analyst, or Systems Analyst in real IT operations.
