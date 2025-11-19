@@ -73,7 +73,6 @@ SELECT Priority, COUNT(*) FROM Tickets GROUP BY Priority;
 -- Tickets by Issue Type
 SELECT IssueType, COUNT(*) FROM Tickets GROUP BY IssueType;
 
-
 The full SQL file is included here: TicketAnalysis.sql
 
 	Power BI (Data Modeling, DAX, Dashboard)
@@ -130,7 +129,7 @@ Tickets by Technician
 Clean KPI row at the top
 
 
-	![IT Tickets Dashboard](ItTickets.png)
+![IT Tickets Dashboard](ItTickets.png)
 
 	Insights & Takeaways
  Ticket Volume
@@ -197,6 +196,7 @@ Building DAX measures
 Designing a clean BI dashboard
 
 Explaining insights clearly
+
 
 
 
